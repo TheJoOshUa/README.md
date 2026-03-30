@@ -7,7 +7,7 @@ Sou estudante de **Desenvolvimento de Sistemas na Etec** e atuo profissionalment
 
 ### 🛠️ Tecnologias e Habilidades
 
-Atualmente, estou focando meus estudos nas seguintes tecnologias solicitadas:
+Atualmente, estou focando meus estudos nas seguintes tecnologias que vejo que auxiliarão para eu atingir os meus objetivos:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
