@@ -1,7 +1,7 @@
 # Olá, eu sou o Marcos Vinicius! 👋
 
 ### 👨‍💻 Sobre Mim
-Sou estudante de **Desenvolvimento de Sistemas* e atuo profissionalmente na área de **Automação Predial**. Meu objetivo é realizar a integração de Inteligência Artificial às Máquinas.
+Sou estudante de **Desenvolvimento de Sistemas** e atuo profissionalmente na área de **Automação Predial**. Meu objetivo é realizar a integração de Inteligência Artificial às Máquinas.
 
 ---
 
